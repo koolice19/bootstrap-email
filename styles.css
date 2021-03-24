@@ -1,0 +1,23 @@
+.col-md-6 {
+    background-color: rgb(250, 250, 250);
+}
+.col-md-4{
+    background-color: rgb(212, 212, 212);
+    color: white;
+}
+.col-md-2{
+    background-color: rgb(148, 148, 148);
+    color: white;
+}
+.mikes-navbar {
+    background: #3e3f3a;
+    border: none;
+}
+#btn_compose {
+     width: 120px;
+     background-color: darkgoldenrod;
+}
+.navbar-brand{
+    font-style: normal;
+    color: white;
+}
